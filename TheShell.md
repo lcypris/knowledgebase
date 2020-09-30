@@ -33,9 +33,9 @@ The following notes summarize the [Onlinekurs](http://swcarpentry.github.io/shel
 
 ### General syntax of a shell command
 
-example `ls -F /
+example `ls -F`
 
-|component||
+|Component||
 |-|-|
 |`ls`| **command**|
 |`-F`|**option** (also calles **switches** or **flags**), changes behavior of command|
